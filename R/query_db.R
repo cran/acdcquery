@@ -65,6 +65,7 @@
 #'  target_table = "mtcars_table",
 #'  argument_relation = "and"
 #' )
+#'
 query_db <- function(conn, arguments, target_vars = "default", target_table = "observation_table", argument_relation = "and"){
   # Convert argument_relation into proper numerical vector
   argument_sequence = get_argument_sequence(arguments, argument_relation)
@@ -75,7 +76,9 @@ query_db <- function(conn, arguments, target_vars = "default", target_table = "o
   # replace "default" in target_vars with all variables of the target table
   target_table_vars = col_names[col_names$table == target_table, "column"]
 
+  used_default_vars = FALSE
   if ("default" %in% target_vars){
+    used_default_vars = TRUE
     target_vars = unique(c(target_vars, target_table_vars))
     target_vars = target_vars[target_vars != "default"]
   }
@@ -123,6 +126,10 @@ query_db <- function(conn, arguments, target_vars = "default", target_table = "o
     argument_sequence = argument_sequence,
     requested_vars = target_vars
   )
+
+  if (grepl("observation_table", sql_query)){
+    print("Querying through observation table. Query times may be longer.")
+  }
 
   # Send to db
   data = DBI::dbGetQuery(
