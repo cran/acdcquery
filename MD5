@@ -1,8 +1,8 @@
-7c7575416d0bffc3227b849e54d71ccc *DESCRIPTION
+f4e3d28606f351de6517f432fd136eab *DESCRIPTION
 b3ea53bb0e11332498d255e35a3c4949 *NAMESPACE
-11f2e51141bcb7b441e2e07759313279 *NEWS.md
+df462d90af431f38abd4d0b6ab8971c9 *NEWS.md
 fb569254e9bcd25579c284dd2516dd2a *R/add_argument.R
-3409b6cfeb3fd7cf1511851f4d11bc3a *R/add_join_paths_to_query.R
+6bd00b34d4c0ee3d0b21f9e568a4bf15 *R/add_join_paths_to_query.R
 a19cd41a8932991efdbc11551ff2a536 *R/check_operator.R
 02e8db0199eb1fd9706d68d53d320cb9 *R/connect_to_db.R
 459cb7478a05509d52890c03057cc9de *R/discover_id_introduction_steps.R
@@ -12,12 +12,12 @@ a428dbb9a65e2844c8019505db64d083 *R/get_column_names.R
 9cf91f09136c46f9b612ba6c34809033 *R/get_filter_statement.R
 0a1f3f2db778a501e40bc1387a189ded *R/make_valid_sql.R
 5f425b3513739ad25a16b449bba6a02d *R/precompute_table_join_paths.R
-f306d2c7c7c2673e95f07b127d92ac2e *R/query_db.R
+391d7e89f4081c018b4671ca9e7d8922 *R/query_db.R
 f15b5d2ba4914b10fb34da6ce1392c9a *R/return_id_name_from_table.R
 b5ae7bee39ade1551a84d1ab59a04b25 *R/return_table_name_from_id.R
 7ea01f40add9572ce39f0685c05e22fa *README.md
 b5998a23353eb2f64798b49e4aeedb94 *man/add_argument.Rd
-d7177d2b8076f41ccfcfb20a8564e012 *man/add_join_paths_to_query.Rd
+22f912cff5da02a1eaa462d27f84e2c9 *man/add_join_paths_to_query.Rd
 7198dae736bc72d6b64d2842a8c388dc *man/check_operator.Rd
 151fddbdd68ba366302ec4e6fe7d129a *man/connect_to_db.Rd
 5b3a9cf582e6a3c2e37688be34fae1d7 *man/discover_id_introduction_steps.Rd
