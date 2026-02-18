@@ -1,6 +1,6 @@
-216071b72d85b3b1e7e0c03559a788ba *DESCRIPTION
+6a943449cddbcdbcd1b0772ef4ed0258 *DESCRIPTION
 2310eb2488cd6ebbb719fc889b140988 *NAMESPACE
-10ce782a8988c5c447b0ddef2bee1d6e *NEWS.md
+1a7699e24cb0940370345a955f05c4b2 *NEWS.md
 2eb483036d5680c4a03b2dfd17daaa71 *R/add_argument.R
 6bd00b34d4c0ee3d0b21f9e568a4bf15 *R/add_join_paths_to_query.R
 f439469a1df4a43f753c8ae14a6d48d0 *R/check_dbs.R
@@ -12,13 +12,13 @@ a852da17499a3b3a488a18c5bcbaf2da *R/get_argument_sequence.R
 a428dbb9a65e2844c8019505db64d083 *R/get_column_names.R
 978d5014414afb8c751994d9f44d363e *R/get_dbs.R
 9cf91f09136c46f9b612ba6c34809033 *R/get_filter_statement.R
-92b229cb5b4069ec1e5fa5474021944c *R/github_release_utils.R
+c94e49d84e5ffb733e87660b1c30ce75 *R/github_release_utils.R
 0a1f3f2db778a501e40bc1387a189ded *R/make_valid_sql.R
 5f425b3513739ad25a16b449bba6a02d *R/precompute_table_join_paths.R
 ac16fb458cddab75a7937114bed9ba8f *R/query_db.R
 f15b5d2ba4914b10fb34da6ce1392c9a *R/return_id_name_from_table.R
 b5ae7bee39ade1551a84d1ab59a04b25 *R/return_table_name_from_id.R
-856f1d50a51a34f8bd2500cf65eb7fa8 *R/update_dbs.R
+8b470bd1a8761a4571343a7fb31b5dcd *R/update_dbs.R
 8b25ca5634677f53083e748fd790a601 *README.md
 aaa0f533ecd4c8861dc97c571730ec07 *man/add_argument.Rd
 22f912cff5da02a1eaa462d27f84e2c9 *man/add_join_paths_to_query.Rd
