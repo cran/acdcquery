@@ -1,6 +1,6 @@
-6a943449cddbcdbcd1b0772ef4ed0258 *DESCRIPTION
-2310eb2488cd6ebbb719fc889b140988 *NAMESPACE
-1a7699e24cb0940370345a955f05c4b2 *NEWS.md
+d510ae8561f0d9368ad138cb23df6c8e *DESCRIPTION
+3457325927f3006a65d591d7b4d3cd9f *NAMESPACE
+06ede0287d9b0671a1f86d7ebd4fb528 *NEWS.md
 2eb483036d5680c4a03b2dfd17daaa71 *R/add_argument.R
 6bd00b34d4c0ee3d0b21f9e568a4bf15 *R/add_join_paths_to_query.R
 f439469a1df4a43f753c8ae14a6d48d0 *R/check_dbs.R
@@ -10,7 +10,7 @@ a19cd41a8932991efdbc11551ff2a536 *R/check_operator.R
 7cc81ea8d369f71d6f820e853cf4c574 *R/find_relevant_tables.R
 a852da17499a3b3a488a18c5bcbaf2da *R/get_argument_sequence.R
 a428dbb9a65e2844c8019505db64d083 *R/get_column_names.R
-978d5014414afb8c751994d9f44d363e *R/get_dbs.R
+d1768a3bb67df57c91efc76a6dccd663 *R/get_dbs.R
 9cf91f09136c46f9b612ba6c34809033 *R/get_filter_statement.R
 c94e49d84e5ffb733e87660b1c30ce75 *R/github_release_utils.R
 0a1f3f2db778a501e40bc1387a189ded *R/make_valid_sql.R
@@ -19,7 +19,7 @@ ac16fb458cddab75a7937114bed9ba8f *R/query_db.R
 f15b5d2ba4914b10fb34da6ce1392c9a *R/return_id_name_from_table.R
 b5ae7bee39ade1551a84d1ab59a04b25 *R/return_table_name_from_id.R
 8b470bd1a8761a4571343a7fb31b5dcd *R/update_dbs.R
-8b25ca5634677f53083e748fd790a601 *README.md
+a71fc95b4b6f153df834b2a1ad1f9bad *README.md
 aaa0f533ecd4c8861dc97c571730ec07 *man/add_argument.Rd
 22f912cff5da02a1eaa462d27f84e2c9 *man/add_join_paths_to_query.Rd
 d1f6622b4864f2b369e445c5495d7fec *man/check_acdc.Rd
@@ -29,7 +29,7 @@ d7d21f468a94bd31dc07751b33cd5dec *man/compare_sqlite_to_release.Rd
 e7211f408807a1032ed2c7220b4686e2 *man/connect_to_db.Rd
 f14d6d4b497cb5ae5e7cd33324f55e97 *man/create_sqlite_hash_file.Rd
 5b3a9cf582e6a3c2e37688be34fae1d7 *man/discover_id_introduction_steps.Rd
-3c2e272bd02bf9520c9d31e5a95ca653 *man/dowload_acdc.Rd
+f47fc7df491756db54ae1d3472f86270 *man/download_acdc.Rd
 234f11e94d306754c341438e0644770c *man/download_sqlite_release.Rd
 cab4c1b74c9a0e4bcd4a3c5c97ce4bec *man/download_ted.Rd
 f36d99ee38d471efebe0fe5f2d4b7b26 *man/find_relevant_tables.Rd
